@@ -1,5 +1,7 @@
 ## Telecomunicattion Enginnering
 
+![github stats](https://github-readme-stats.vercel.app/api?username=geryarland&show_icons=true)
+
 ### IoT, Front-End Dev, Cloud Computing
 
 ### Projects    

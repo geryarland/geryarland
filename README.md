@@ -10,4 +10,4 @@
 - [MACOPAD] (https://github.com/geryarland/MACOPADproject) | [Docs](https://docs.google.com/document/d/15vHGVOSzoIKqZZN_lUywvlQaZ5v1W6EGNh2O5JTj0BI/edit?usp=sharing) - IoT
   
 ### Reach Me :
-[Instagram](https://www.instagram.com/geryarland/) | [Twiiter](https://twitter.com/VincentiusGeryA) | [Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/) | [Email](geryarland@gmail.com)
+[Instagram](https://www.instagram.com/geryarland/) | [Twiiter](https://twitter.com/VincentiusGeryA) | [Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/)

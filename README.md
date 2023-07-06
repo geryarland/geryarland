@@ -20,8 +20,8 @@
 - Kepala Divisi Humas Open Recruitment 2021 | Telkom University Choir
     
 ### Achievment
-- Juarau I PKM-PM (Program Kreativitas Mahasiswa-Pengabdian Masyarakat | Himpunan Mahasiswa Teknik Telekomunikasi 2020
-- Juarai I TCA (Telkom Choir Academy) Telkom Univeristy Choir 2020
+- Juara I PKM-PM (Program Kreativitas Mahasiswa-Pengabdian Masyarakat | Himpunan Mahasiswa Teknik Telekomunikasi 2020
+- Juara I TCA (Telkom Choir Academy) Telkom Univeristy Choir 2020
   
 ### Reach Me 
 [Instagram](https://www.instagram.com/geryarland/) | [Twiiter](https://twitter.com/VincentiusGeryA) | [Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/)

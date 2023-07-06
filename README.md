@@ -1,6 +1,6 @@
-## Telecomunicattion Enginnering
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=geryarland&show_icons=true)
+
+## Telecomunicattion Enginnering
 
 ### IoT, Front-End Dev, Cloud Computing
 
@@ -22,7 +22,7 @@
 - Kepala Divisi Humas Open Recruitment 2021 | Telkom University Choir
     
 ### Achievment
-- Juara I PKM-PM (Program Kreativitas Mahasiswa-Pengabdian Masyarakat | Himpunan Mahasiswa Teknik Telekomunikasi 2020
+- Juara I PKM-PM (Program Kreativitas Mahasiswa-Pengabdian Masyarakat) | Himpunan Mahasiswa Teknik Telekomunikasi 2020
 - Juara I TCA (Telkom Choir Academy) Telkom Univeristy Choir 2020
   
 ### Reach Me 

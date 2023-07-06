@@ -5,4 +5,4 @@
 - [Automatic Vehicle Counter] (https://github.com/geryarland/iotproject) - IoT
   
 ### Reach Me :
-[Instagram](https://www.instagram.com/geryarland/)|[Twiiter](https://twitter.com/VincentiusGeryA)|[Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/)|[Email](geryarland@gmail.com)
+[Instagram](https://www.instagram.com/geryarland/) | [Twiiter](https://twitter.com/VincentiusGeryA) | [Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/) | [Email](geryarland@gmail.com)

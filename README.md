@@ -1,10 +1,8 @@
 -IoT, Front-End Dev, Cloud Computing
 
 ### Projects : 
-#### Front End Dev 
--[Website Dashboard Fasilitas Kesehatan Covid-19 Di Indonesia] (https://github.com/arigints/cloud-frontend) | (https://github.com/geryarland/faskesindo)
-#### IoT
--[Automatic Vehicle Counter] (https://github.com/geryarland/iotproject)
+-[Website Dashboard Fasilitas Kesehatan Covid-19 Di Indonesia](https://github.com/arigints/cloud-frontend) - Front End Dev
+-[Automatic Vehicle Counter](https://github.com/geryarland/iotproject) - IoT
 
 ### Reach Me :
 [Instagram] (https://www.instagram.com/geryarland/)

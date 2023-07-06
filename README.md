@@ -1,5 +1,3 @@
-## A Assistant Reseacrh of Cyber Physical System Laboratory
-
 ## Telecomunicattion Enginnering
 
 ### IoT, Front-End Dev, Cloud Computing
@@ -9,11 +7,17 @@
 - [Automatic Vehicle Counter] [Docs](https://docs.google.com/document/d/1PFaTh0WCWEwgI3Hyp8u6y6q-lyqvY1y8pPMbFfLnwPg/edit?usp=sharing) - IoT
 - [MACOPAD] (https://github.com/geryarland/MACOPADproject) | [Docs](https://docs.google.com/document/d/15vHGVOSzoIKqZZN_lUywvlQaZ5v1W6EGNh2O5JTj0BI/edit?usp=sharing) - IoT
 - 
-### Organization :
+### Organization 
 - Cyber Physical System Laboratory
   - Assistant Research (2022-Now)
 - Telkom University Choir
   - Koordinator I (2021-2022)
-  
+    
+### Volunteers & Commite
+  - Ketua Pelaksana Cyber Phsyical Acadey 2023 | Cyber Physical System Laboratory
+  - Anggota Kaderisasi Mentoring Asterisk 2022 | Himpunan Mahasiswa Teknik Telekomunikasi
+  - Penanggung Jawab Telkom Choir Academy 2021 | Telkom University Choir
+  - Kepala Divisi Humas Open Recruitment 2021 | Telkom University Choir
+### Achievment
 ### Reach Me :
 [Instagram](https://www.instagram.com/geryarland/) | [Twiiter](https://twitter.com/VincentiusGeryA) | [Linkedin](https://www.linkedin.com/in/gery-arland-83282b118/)

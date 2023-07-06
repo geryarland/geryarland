@@ -6,3 +6,10 @@
 
 ### Reach Me :
 [Instagram] (https://www.instagram.com/geryarland/)|[Twiiter] (https://twitter.com/VincentiusGeryA)|[Linkedin] (https://www.linkedin.com/in/gery-arland-83282b118/)|[Email] (geryarland@gmail.com)
+
+### Current Activities :   
+- Finishing Bitcoin & Blockchain Books
+- Finishing Ethereum & Smart Contract Books 
+- Cryptocurrency :
+  - Teaching Smart Contract World
+  - Carbon Credit Tokenization (ERC-20, 721, 1155, Custom), 
